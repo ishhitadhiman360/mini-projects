@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+  }
+  #app{
+    height: 30rem;
+    width: 20rem;
+    border: 1px solid black;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: plum;
+  }
+  #display{
+    height: 60%;
+    width: 90%;
+    border: 1px solid plum;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: yellow;
+  }
+  #shape{
+    height: 70%;
+    width:70%;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 0;
+    background-color: white;
+  }
+  button{
+    padding: 15px;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman';
+    height: 60px;
+    width:200px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1px solid plum;
+    border-radius: 8px;
+  }
+  

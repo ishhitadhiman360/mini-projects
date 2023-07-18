@@ -1,0 +1,25 @@
+body{
+    margin : 0;
+    padding: 0;
+  }
+  #app{
+    height: 80vh;
+    width: 70vw;
+    background-color: #ffee58cc;
+    position: relative;
+    margin: 9vh auto;
+    border: 5px solid #ff98008a;
+    border-radius: 4px;
+  }
+  
+  #ball{
+    position: absolute;
+    border: 1px solid #c8800a;
+    width: 120px;
+    height: 120px;
+    background-color: white;
+    border-radius: 100%;
+    top: 10%;
+    left : 0;
+    transition: all .3s;
+  }
